@@ -1,0 +1,9 @@
+{
+    "type": "mysql",
+    "username": "root",
+    "password": null,
+    "database": "blog_nest",
+    "synchronize": true,
+    "logging": true,
+    "entities": ["./src/**/**.entity.{ts, js}"]
+}
